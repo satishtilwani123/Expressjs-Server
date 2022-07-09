@@ -1,0 +1,8 @@
+//Node HTTP
+
+npm install express --save         //Installing expressjs.
+
+npm install morgan --save          //Installing morgan => Showing File Path.
+
+npm install body-parser --save     //Installing Body-Parser => It will parse json body.
+
